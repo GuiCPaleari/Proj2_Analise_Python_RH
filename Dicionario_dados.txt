@@ -1,0 +1,32 @@
+Features
+
+enrollee_id : Unique ID for candidate -- (ID unico do candidato)
+
+city: City code -- (Código da cidade)
+
+city_ development _index : Developement index of the city (scaled) -- (Índice de desenvolvimento da cidade (escala))
+
+gender: Gender of candidate -- (Gênero do candidato)
+
+relevent_experience: Relevant experience of candidate -- (Experiência relevante do candidato)
+
+enrolled_university: Type of University course enrolled if any -- (Tipo de curso universitário matriculado, se houver)
+
+education_level: Education level of candidate -- (Nível de escolaridade do candidato)
+
+major_discipline :Education major discipline of candidate -- (Indica se está ou não matriculado em um curso universitário)
+
+experience: Candidate total experience in years -- (Experiência total do candidato em anos)
+
+company_size: No of employees in current employer's company -- (Nº total de funcionários na empresa atual)
+
+company_type : Type of current employer -- (Tipo de empresa atual)
+
+lastnewjob: Difference in years between previous job and current job -- (Diferença em anos entre o trabalho anterior e o trabalho atual)
+
+training_hours: training hours completed -- (Horas de treinamento concluídas)
+
+target: 0 – Not looking for job change, 1 – Looking for a job change -- (0 – Não procura mudança de emprego, 1 – Procura mudança de emprego)
+
+
+
