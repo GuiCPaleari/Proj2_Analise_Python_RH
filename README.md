@@ -1,4 +1,4 @@
-PROJ2 - ANÁLISE COM PYTHON DE RH
+PROJ2 - ANÁLISE COM PYTHON EM RH
 
 SOBRE O PROJETO: Neste projeto realizei uma sequência completa de análise descritiva, diagnóstica e 
 estatística de dados de RH (Recursos Humanos). Usei dados reais disponíveis publicamente
